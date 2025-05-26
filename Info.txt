@@ -1,0 +1,26 @@
+https://retoolapi.dev/mQfaCh/data
+
+
+GET
+/mQfaCh/data
+
+GET filter
+/mQfaCh/data?Nombre=value
+
+GET by id
+/mQfaCh/data/1
+
+GET paginate
+/mQfaCh/data?_page=2&_limit=10
+
+POST
+/mQfaCh/data
+
+PUT
+/mQfaCh/data/1
+
+PATCH
+/mQfaCh/data/1
+
+DELETE
+/mQfaCh/data/1
